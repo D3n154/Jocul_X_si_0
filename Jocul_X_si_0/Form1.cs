@@ -12,7 +12,7 @@ namespace Jocul_X_si_0
 {
     public partial class Form1 : Form
     {
-        bool player = true;//true = Player X, false = Player O
+        bool player = true;//true = Player X; false = Player O
         int players_count = 0;
 
         public Form1()
